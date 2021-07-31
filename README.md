@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./mycontacts_logo.svg">
+    <img src="./src/assets/images/logo.svg">
 </div>
 
 ### Em desenvolvimento...
