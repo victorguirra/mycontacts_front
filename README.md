@@ -3,3 +3,8 @@
 </div>
 
 ### Em desenvolvimento...
+
+Tools 🚀
+
+- Eslint
+- Styled Components
