@@ -2,9 +2,12 @@
     <img src="./src/assets/images/logo.svg">
 </div>
 
-### Em desenvolvimento...
+### Under Development...
 
 Tools 🚀
 
+- ReactJS
+- React Portals
+- Styled-Components
 - Eslint
 - Styled Components
