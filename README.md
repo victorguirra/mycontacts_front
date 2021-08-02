@@ -10,4 +10,3 @@ Tools 🚀
 - React Portals
 - Styled-Components
 - Eslint
-- Styled Components
