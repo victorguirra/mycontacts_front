@@ -16,6 +16,7 @@ export default styled.select`
 
 	outline: none;
 	transition:border-color .2s ease-in;
+	appearance: none;
 
 	&:focus {
 		border: 2px solid ${({ theme }) => theme.colors.primary.main};
